@@ -1,6 +1,6 @@
 ### Olá! Eu sou o André Gomes 👋
 
-- 📚 Estudande do 3 período de Ciências da computação. 
+- 📚 Estudante do 3 período de Ciências da Computação. 
 - 🥇 **Participante** do Programa Desenvolve 2022 do grupo O boticário.
 - 👨‍💻 Aprendendo back e front-end na trilha **Full Stack**.
 - 📫 Contate-me no email: dhegomeez@gmail.com
