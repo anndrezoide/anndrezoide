@@ -2,7 +2,7 @@
 
 - 📚 Estudande do 3 período de Ciências da computação. 
 - 🥇 **Participante** do Programa Desenvolve 2022 do grupo O boticário.
-- 👨‍💻 Aprendendo back e front-end na trilha **FullStack**.
+- 👨‍💻 Aprendendo back e front-end na trilha **Full Stack**.
 - 📫 Contate-me no email: dhegomeez@gmail.com
 - ⚡ Apaixonado por códigos e futebol.
 
