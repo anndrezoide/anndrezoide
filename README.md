@@ -1,4 +1,4 @@
-   <div align="center"> # André Gomes 👋 </div> 
+  <div align="center># André Gomes 👋 
 
 - 📚 Estudante do 3 período de Ciências da Computação. 
 - 🥇 **Participante** do Programa Desenvolve 2022 do grupo O boticário.
@@ -33,3 +33,4 @@
     
   <a href="https://instagram.com/anndrezoide" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a><a href= "mailto: dhegomeez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a><a href="https://www.linkedin.com/in/anndregoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+</div>
