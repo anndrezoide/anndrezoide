@@ -1,5 +1,7 @@
   # André Gomes 👋
 
+"A melhor maneira de aprender seja o que é for, é fazendo."
+
 - 📚 Estudante do 3 período de Ciências da Computação. 
 - 🥇 **Participante** do Programa Desenvolve 2022 do grupo O boticário.
 - 👨‍💻 Aprendendo back e front-end na trilha **Full Stack**.
