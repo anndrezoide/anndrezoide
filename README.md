@@ -1,4 +1,4 @@
-<div align="center"> André Gomes 👋 </div>
+<div align="center"> <h1>André Gomes 👋 </h1></div>
 <div align="center"> "A melhor maneira de aprender seja o que é for, é fazendo." </div>
 <hr>
 
