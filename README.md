@@ -37,6 +37,6 @@
  
 </div>  
  
-<div align="right">
+<div align="center">
   <img src="https://visitcount.itsvg.in/api?id=anndrezoide&label=Profile%20Views&color=12&icon=5&pretty=true">
 </div>
