@@ -2,9 +2,8 @@
   <div align="center"> "A melhor maneira de aprender seja o que é for, é fazendo." </div>
   <hr>
 
-  <div align="center">  📚 Estudante do 3 período de Ciências da Computação. </div>
-  <div align="center">  🥇 <strong>Participante</strong> do Programa Desenvolve 2022 do grupo O boticário. </div>
-  <div align="center">  👨‍💻 Aprendendo back e front-end na trilha <strong>Full Stack</strong>. </div>
+  <div align="center">  📚 Estudante do 7 período de Ciências da Computação. </div>
+  <div align="center">  👨‍💻 Aprendendo backend utilizando Java, Python e NodeJs <strong>Full Stack</strong>. </div>
   <div align="center">  📫 Contate-me no email: dhegomeez@gmail.com </div>
   <div align="center"   ⚡ Apaixonado por códigos e futebol.</div>
   <br>
