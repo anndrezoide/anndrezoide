@@ -3,7 +3,7 @@
   <hr>
 
   <div align="center">  📚 Estudante do 7 período de Ciências da Computação. </div>
-  <div align="center">  👨‍💻 Aprendendo backend utilizando Java, Python e NodeJs <strong>Full Stack</strong>. </div>
+  <div align="center">  👨‍💻 Aprendendo <strong>backend</strong> utilizando Java, Python e NodeJs. </div>
   <div align="center">  📫 Contate-me no email: dhegomeez@gmail.com </div>
   <div align="center"   ⚡ Apaixonado por códigos e futebol.</div>
   <br>
