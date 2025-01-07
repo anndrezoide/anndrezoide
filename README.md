@@ -2,8 +2,8 @@
   <div align="center"> "A melhor maneira de aprender seja o que é for, é fazendo." </div>
   <hr>
 
-  <div align="center">  📚 Estudante do 7 período de Ciências da Computação. </div>
-  <div align="center">  👨‍💻 Aprendendo <strong>backend</strong> utilizando Java, Python e NodeJs. </div>
+  <div align="center">  📚 Formado em Ciências da Computação. </div>
+  <div align="center">  👨‍💻 Desenvolvedor <strong>backend</strong> Java</div>
   <div align="center">  📫 Contate-me no email: dhegomeez@gmail.com </div>
   <div align="center"   ⚡ Apaixonado por códigos e futebol.</div>
   <br>
